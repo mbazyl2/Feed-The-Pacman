@@ -50,6 +50,7 @@ function bulletMovement() {
 		bulletCenterY -= 5;
 	} else {
 		bulletCenterY = 475;
+		spacePressed = false;
 	}
 
 }
